@@ -36,12 +36,14 @@ Current projects include:
 
 ### ⚡ Open Source Experiments
 
-1. **[weather-monitor](https://github.com/guilhermenstorti/weather-monitor)**: Personal study project on practical software development with the aid of LLMs in a disciplined manner, using a custom harness layer (general rules + specific skills + agnostic approach to LLM communication) to guide the AI before any line of code is written. The goal was not just to build a functional "weather dashboard" (frontend + backend consuming the Open-Meteo API), but mainly to test how far it is possible to guide a code assistant (in this case, Claude Code) with an explicit and reusable set of engineering rules, instead of relying solely on the model's implicit common sense.
+1. **[weather-monitor](https://github.com/guilhermenstorti/weather-monitor)**: Personal study project on practical software development with the aid of LLMs in a disciplined manner, using a custom harness layer (general rules + specific skills + agnostic LLM communication + testing).
 
-2. **bag-of-holding**⏳: Portable skills and rules for any AI 
+2. **bag-of-holding**⏳: Portable skills and rules for any AI.
 
 ### ✍🏼 Writing and Knowledge
 
 1. [The Product Path](https://onproductpath.substack.com/): Your shortcut to navigate complexity and create products that shine.
+<!-- add artigo publicado !-->
+
 
 <!-- Community and co-op !-->
