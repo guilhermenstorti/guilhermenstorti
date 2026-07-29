@@ -24,7 +24,7 @@ Software Development → Business & Strategy → Data Science & Analytics → Di
 > 
 > Product Vision • Product Strategy • Product Analytics • Discovery • Go-To-Market • Platform
 
-> [[📈 ACCOUNTFY]]((www.accountfy.com)): Led the evolution of multiple B2B SaaS products accross **Financial Planning, Automation, Analytics and Artificial Intelligence**, driving product strategy from discovery to global expansion.
+> [[📈 Accountfy]]((www.accountfy.com)): Led the evolution of multiple B2B SaaS products accross **Financial Planning, Automation, Analytics and Artificial Intelligence**, driving product strategy from discovery to global expansion.
 > 
 > Product Vision • Product Strategy • Product Roadmap • Discovery • Innovation • Fintech 
 
