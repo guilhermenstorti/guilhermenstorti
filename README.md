@@ -18,6 +18,8 @@ Currently focused on:
 
 Software Development → Business & Strategy → Data Science & Analytics → Digital Products 
 
+**[Product Management Portfolio](https://guilhermenstorti.github.io/portfolio/?t=HlllxE)**
+
 ### Featured Experiences
 
 > [[🚀 Mogno AI]]((www.mogno.ai)): Led the creation of *Mogno*, an AI platform that originated as an internal innovation initiative and evolved into an independent global product.
