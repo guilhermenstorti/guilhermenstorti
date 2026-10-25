@@ -3,7 +3,7 @@ Product Manager • AI Products • Product Strategy • Business & Engineering
 
 <!-- Linkedin !-->
 
-I build AI-powered products at the intersection of *Business, Product, Data and Engineering*.
+I build products at the intersection of *Business, Product, Data and Engineering*.
 
 Currently focused on:
 
