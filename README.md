@@ -45,6 +45,12 @@ Current projects include:
 ### ✍🏼 Writing and Knowledge
 
 1. [The Product Path](https://onproductpath.substack.com/): Your shortcut to navigate complexity and create products that shine.
+2. [Vina News](https://vinanews.com.br): Every Wednesday on Vina News, I write about product and tech for marketing teams.
+
+### 👨🏻‍🏫 Lectures and Talks
+
+1. [Work in Tech 2026](https://github.com/guilhermenstorti/work-in-tech): WorkInTech connects tech students with industry professionals through a week of workshops and a hackathon. A talk on Product Discovery and Metrics for Software Builders, covering how to identify real user problems, connect code to business outcomes through metrics, and apply the discovery process in a hands-on workshop.
+
 <!-- add artigo publicado !-->
 
 
